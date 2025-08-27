@@ -42,5 +42,5 @@
     },
     "@nx/next": { "application": { "style": "scss", "linter": "eslint" } }
   },
-  "nxCloudAccessToken": "NmUzZDBkODgtN2QwYS00YzQwLTkxMTAtNTFjOGFhNGY1ZjNlfHJlYWQtd3JpdGU="
+  "nxCloudAccessToken": "MDI2NThkZDQtZTc4Mi00Zjg5LWEwNzktMjFjOTJmMTJkNGY0fHJlYWQtd3JpdGU="
 }
